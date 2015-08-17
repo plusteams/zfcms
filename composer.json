@@ -2,7 +2,6 @@
     "name": "plusteams/zfcms",
     "description": "CSM For zend",
     "license": "BSD-3-Clause",
-    "version": "1.0.0",
     "keywords": [
         "CMS",
         "zf2"
