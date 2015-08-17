@@ -15,6 +15,6 @@
     },
     
     "autoload": {
-        "psr-4": {"Application\\Model\\": "src/Application/Model/"}
+        "psr-4": {"Zfcms\\Model\\": "src/Zfcms/Model/"}
     }
 }

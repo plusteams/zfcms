@@ -5,14 +5,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-namespace Application\Controller;
+namespace Zfcms\Controller;
 use Zend\Mvc\Controller\AbstractActionController;
 /**
  * Description of ApplicationController
  *
  * @author hieun
  */
-abstract class ApplicationController extends AbstractActionController{
+abstract class ZfcmsController extends AbstractActionController{
     private $doctrine;
     
     

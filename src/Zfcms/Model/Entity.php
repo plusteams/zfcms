@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace Application\Model;
+namespace Zfcms\Model;
 use Doctrine\ORM\Mapping as ORM;
 /**
  * Description of Entity

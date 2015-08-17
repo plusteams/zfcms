@@ -17,7 +17,7 @@
  * <http://www.doctrine-project.org>.
  */
 
-namespace Application;
+namespace Zfcms;
 
 /**
  * Version

@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace Application\Services;
+namespace Zfcms\Services;
 
 /**
  * Description of RedisDoctrineFactory
