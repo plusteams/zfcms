@@ -6,12 +6,8 @@
         "CMS",
         "zf2"
     ],
-    "homepage": "http://nguyenminhhieu.net/",
     "require": {
-      "php": ">=5.5"  
-    },
-    "require-dev": {
-        
+        "php": ">=5.5",
         "zendframework/zendframework": "~2.5",
         "doctrine/orm": "^2.5",
         "doctrine/doctrine-orm-module": "dev-master",
