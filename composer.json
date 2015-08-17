@@ -5,24 +5,20 @@
     "version": "1.0.0",
     "keywords": [
         "CMS",
-        "zf2",
-        ""
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "http://github.com/plusteams/zfcms"
-        }
+        "zf2"
     ],
     "homepage": "http://nguyenminhhieu.net/",
+    "require": {
+      "php": ">=5.5"  
+    },
     "require-dev": {
-        "php": ">=5.5",
+        
         "zendframework/zendframework": "~2.5",
         "doctrine/orm": "^2.5",
         "doctrine/doctrine-orm-module": "dev-master",
         "symfony/yaml": "^2.7"
     },
-    "minimum-stability": "dev",
+    
     "autoload": {
         "psr-4": {"Application\\Model\\": "src/Application/Model/"}
     }
