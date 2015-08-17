@@ -21,6 +21,8 @@
         "doctrine/doctrine-orm-module": "dev-master",
         "symfony/yaml": "^2.7"
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {"Application\\Model\\": "src/Application/Model/"}
     }
